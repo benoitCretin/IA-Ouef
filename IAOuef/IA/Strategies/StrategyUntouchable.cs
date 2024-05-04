@@ -47,7 +47,7 @@ namespace IA.Strategies
                     {
                         this.game.UpdatePlayers();
                         // If the player has 500 score or more and can buy a member
-                        if (this.game.Players[0].Score >= 500 && this.game.Players[0].Attack < 100)
+                        if (this.game.Players[num].Score >= 500 && this.game.Players[num].Attack < 100)
                         {
                             Connection.EnvoyerMessage("RECRUTER"); // The player hire a member
                             Connection.RecevoirMessage(); // Get a message from the server
@@ -71,7 +71,7 @@ namespace IA.Strategies
                             foreach (Road r in this.game.Roads)
                             {
                                 if (r.HasMonster == false &&
-                                    r.AttackValue <= this.game.Players[0].Attack)
+                                    r.AttackValue <= this.game.Players[num].Attack)
                                 {
                                     this.roads.Add(r);
                                 }
@@ -92,7 +92,7 @@ namespace IA.Strategies
                             endTurn = true;
                         }
                         
-                        if(this.game.Players[0].ChestNumber <= 1)
+                        if(this.game.Players[num].ChestNumber <= 1)
                         {
                             Connection.EnvoyerMessage("RECELER");
                             Connection.RecevoirMessage();
