@@ -9,6 +9,8 @@ class Program
 
         Connection.OuvrirConnexion();
 
+
+
         string message = Connection.RecevoirMessage();
         Connection.EnvoyerMessage("OUEF");
 
