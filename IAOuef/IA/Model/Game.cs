@@ -42,8 +42,8 @@ namespace IA.Model
             string[] firstSplit = message.Split('|');
             string[] player1 = firstSplit[0].Split(';');
             string[] player2 = firstSplit[1].Split(';');
-            /*string[] player3 = firstSplit[2].Split(';');
-            string[] player4 = firstSplit[3].Split(';');*/
+            string[] player3 = firstSplit[2].Split(';');
+            string[] player4 = firstSplit[3].Split(';');
 
             this.players[1].Score = Convert.ToInt32(player1[0]);
             this.players[1].Attack = Convert.ToInt32(player1[1]);
@@ -59,7 +59,7 @@ namespace IA.Model
             this.players[2].Activity = player2[3];
             this.players[2].ChestNumber = Convert.ToInt32(player2[4]);
             this.players[2].LootValue = Convert.ToInt32(player2[5]);
-/*
+
             this.players[3].Score = Convert.ToInt32(player3[0]);
             this.players[3].Attack = Convert.ToInt32(player3[1]);
             this.players[3].Hp = Convert.ToInt32(player3[2]);
@@ -72,7 +72,7 @@ namespace IA.Model
             this.players[4].Hp = Convert.ToInt32(player4[2]);
             this.players[4].Activity = player4[3];
             this.players[4].ChestNumber = Convert.ToInt32(player4[4]);
-            this.players[4].LootValue = Convert.ToInt32(player4[5]);*/
+            this.players[4].LootValue = Convert.ToInt32(player4[5]);
         }
 
         public void UpdateRoads()
