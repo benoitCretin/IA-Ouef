@@ -50,5 +50,6 @@ namespace IA.Model
         /// </summary>
         public int LootValue { get => this.lootValue; set => this.lootValue = value; }
         private int lootValue;
+
     }
 }

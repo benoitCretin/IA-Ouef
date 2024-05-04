@@ -21,6 +21,12 @@ namespace IA.Model
         private int level;
 
         /// <summary>
+        /// Get and set the attack of the ship on the road
+        /// </summary>
+        public int AttackValue { get => this.attackValue; set => this.attackValue = value; }
+        private int attackValue;
+
+        /// <summary>
         /// Get and set the value of the first chest
         /// </summary>
         public int ChestValue1 { get => this.chestValue1; set => this.chestValue1 = value; }
