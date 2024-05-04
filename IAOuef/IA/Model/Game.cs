@@ -87,35 +87,35 @@ namespace IA.Model
 
             this.roads[0].Number = 1;
             this.roads[0].Level = Convert.ToInt32(road1[0]);
-            this.roads[0].AttackValue = Convert.ToInt32(road1[0]);
-            this.roads[0].ChestValue1 = Convert.ToInt32(road1[0]);
-            this.roads[0].ChestValue2 = Convert.ToInt32(road1[0]);
-            this.roads[0].ChestValue3 = Convert.ToInt32(road1[0]);
-            this.roads[0].HasMonster = Convert.ToBoolean(road1[0]);
+            this.roads[0].AttackValue = Convert.ToInt32(road1[1]);
+            this.roads[0].ChestValue1 = Convert.ToInt32(road1[2]);
+            this.roads[0].ChestValue2 = Convert.ToInt32(road1[3]);
+            this.roads[0].ChestValue3 = Convert.ToInt32(road1[4]);
+            this.roads[0].HasMonster = Convert.ToBoolean(road1[5]);
 
             this.roads[1].Number = 2;
             this.roads[1].Level = Convert.ToInt32(road2[0]);
-            this.roads[1].AttackValue = Convert.ToInt32(road2[0]);
-            this.roads[1].ChestValue1 = Convert.ToInt32(road2[0]);
-            this.roads[1].ChestValue2 = Convert.ToInt32(road2[0]);
-            this.roads[1].ChestValue3 = Convert.ToInt32(road2[0]);
-            this.roads[1].HasMonster = Convert.ToBoolean(road2[0]);
+            this.roads[1].AttackValue = Convert.ToInt32(road2[1]);
+            this.roads[1].ChestValue1 = Convert.ToInt32(road2[2]);
+            this.roads[1].ChestValue2 = Convert.ToInt32(road2[3]);
+            this.roads[1].ChestValue3 = Convert.ToInt32(road2[4]);
+            this.roads[1].HasMonster = Convert.ToBoolean(road2[5]);
 
             this.roads[2].Number = 3;
             this.roads[2].Level = Convert.ToInt32(road1[0]);
-            this.roads[2].AttackValue = Convert.ToInt32(road3[0]);
-            this.roads[2].ChestValue1 = Convert.ToInt32(road3[0]);
-            this.roads[2].ChestValue2 = Convert.ToInt32(road3[0]);
-            this.roads[2].ChestValue3 = Convert.ToInt32(road3[0]);
-            this.roads[2].HasMonster = Convert.ToBoolean(road3[0]);
+            this.roads[2].AttackValue = Convert.ToInt32(road3[1]);
+            this.roads[2].ChestValue1 = Convert.ToInt32(road3[2]);
+            this.roads[2].ChestValue2 = Convert.ToInt32(road3[3]);
+            this.roads[2].ChestValue3 = Convert.ToInt32(road3[4]);
+            this.roads[2].HasMonster = Convert.ToBoolean(road3[5]);
 
             this.roads[3].Number = 4;
             this.roads[3].Level = Convert.ToInt32(road4[0]);
-            this.roads[3].AttackValue = Convert.ToInt32(road4[0]);
-            this.roads[3].ChestValue1 = Convert.ToInt32(road4[0]);
-            this.roads[3].ChestValue2 = Convert.ToInt32(road4[0]);
-            this.roads[3].ChestValue3 = Convert.ToInt32(road4[0]);
-            this.roads[3].HasMonster = Convert.ToBoolean(road4[0]);
+            this.roads[3].AttackValue = Convert.ToInt32(road4[1]);
+            this.roads[3].ChestValue1 = Convert.ToInt32(road4[2]);
+            this.roads[3].ChestValue2 = Convert.ToInt32(road4[3]);
+            this.roads[3].ChestValue3 = Convert.ToInt32(road4[4]);
+            this.roads[3].HasMonster = Convert.ToBoolean(road4[5]);
 
         }
     }
