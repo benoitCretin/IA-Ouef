@@ -54,7 +54,7 @@ namespace IA.Strategies
                             endTurn = true;
                         }
 
-                        // If the hp of the player are less than 3, he must to repair his ship
+                        // If the hp of the player are less than 3, he must repair his ship
                         if (this.game.Players[num].Hp < 3)
                         {
                             Connection.EnvoyerMessage("REPARER");
