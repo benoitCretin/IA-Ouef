@@ -1,0 +1,14 @@
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\bin\Release\net6.0\IA.exe
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\bin\Release\net6.0\IA.deps.json
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\bin\Release\net6.0\IA.runtimeconfig.json
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\bin\Release\net6.0\IA.dll
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\bin\Release\net6.0\IA.pdb
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.AssemblyInfoInputs.cache
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.AssemblyInfo.cs
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.csproj.CoreCompileInputs.cache
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.dll
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\refint\IA.dll
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.pdb
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\IA.genruntimeconfig.cache
+C:\Users\benoi\source\repos\IA-Ouef\IAOuef\IA\obj\Release\net6.0\ref\IA.dll
