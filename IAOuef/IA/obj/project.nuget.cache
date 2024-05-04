@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EfE/ze0hk0rVH32ZaR9ArRIeObwnON6Hj35/ms8DDcFwdhEmWui/fGRw8Vyzgcgc9H4C+5EAByRzF9xePoZGAw==",
+  "dgSpecHash": "FAXVNVkYcxG00XTasM/3rLE8qLkdQmXZwEtsjx7WSso3WvsrpcMHshPQvqJimFfLPGeVD9C1kesyqj+ej0bJrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\benoi\\source\\repos\\IA-Ouef\\IAOuef\\IA\\IA.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\maxim\\RiderProjects\\IA-Ouef\\IAOuef\\IA\\IA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\maxim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
   "logs": []
 }
